@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckboxHW1</string>
+    <string name="save_button_text">Сохранить данные</string>
+    <string name="clear_button_text">Удалить данные</string>
+    <string name="input_text_hint">Введите текст</string>
+    <string name="result_tv_text">Результат</string>
+</resources>
